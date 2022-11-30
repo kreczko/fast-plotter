@@ -106,3 +106,9 @@ ENV/
 *.pcm
 *.root
 .*sw[op]
+
+# VSCode
+.vscode/*
+
+# example config
+docs/example*config.yaml
